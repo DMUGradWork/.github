@@ -10,5 +10,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-![](mermaid-diagram.svg)
+## 마이크로서비스 맵
+![](gradwork-mermaid-map.svg)
